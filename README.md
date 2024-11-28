@@ -108,7 +108,7 @@ La estructura del proyecto es la siguiente:
 **Descripción:** Este componente carga y muestra una galería de imágenes de Pokémon usando la API PokeAPI.
 
 **Funcionamiento:**
-- El componente utiliza `fetch` para obtener una lista de 10 Pokémon de la API `https://pokeapi.co/api/v2/pokemon?limit=10`.
+- El componente utiliza `fetch` para obtener una lista de 90 Pokémon de la API `https://pokeapi.co/api/v2/pokemon?limit=10`.
 - Las imágenes de los Pokémon se muestran en un formato de cuadrícula usando CSS Grid. Cada imagen está estilizada con un borde blanco, redondeado y un efecto de sombra que hace que las imágenes se agranden ligeramente cuando se pasa el cursor sobre ellas.
 - Este componente es ideal para aplicaciones interactivas donde se desea mostrar contenido visual dinámico.
 
